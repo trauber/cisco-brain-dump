@@ -7,8 +7,11 @@ Start with general concepts and fill in as time permits and as necessity require
 
 ### IPV4
 
+2^32 space, logically divided into classes and public and private networks.
+
 ### IPV6
 
+2^128 space.
 
 ## Redundancy
 
