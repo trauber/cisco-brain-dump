@@ -27,6 +27,8 @@ Start with general concepts and fill in as time permits and as necessity require
 
 ### Layer 2
 
+<!-- Switches create networks. Routers connect networks. -->
+
 #### VLANs
 
 
@@ -37,6 +39,7 @@ Start with general concepts and fill in as time permits and as necessity require
 
 ### STP
 
+Switches are, in essence, repeaters. They resent received frames out all of their ports.
 
 
 
