@@ -5,9 +5,11 @@ Notes to help prepare for desk top support training with Miles Tech.
 Start with general concepts and fill in as time permits and as necessity requires.
 
 
-## Layer 3 Logical Segmentation
+## Logical Segmentation
 
-### IPV4
+### Layer 3
+
+#### IPV4
 
 2^32 space, logically divided into classes and public and private networks. IP addresses are expressed in dot delimited notation with 4 "quartets" with values from 0 to 255.
 
@@ -18,14 +20,18 @@ Start with general concepts and fill in as time permits and as necessity require
 | C | 192.0.0.0 -223.255.255.0 |
 
 
-### IPV6
+#### IPV6
 
 2^128 space.
 
 
+### Layer 2
+
+#### VLANs
+
+
 ## Loop Prevention <a title="Maybe redundancy should come first since it created looping problem." href="#"><sup>1</sup></a>
 
-a note [1] 
 
 
 
@@ -42,4 +48,3 @@ a note [1]
 ### Authentication
 
 
-[1]: does this work
