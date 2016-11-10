@@ -23,7 +23,9 @@ Start with general concepts and fill in as time permits and as necessity require
 2^128 space.
 
 
-## Loop Prevention
+## Loop Prevention <a title="Maybe redundancy should come first since it created looping problem." href="#"><sup>1</sup></a>
+
+a note [1] 
 
 
 
@@ -38,3 +40,6 @@ Start with general concepts and fill in as time permits and as necessity require
 ## Security
 
 ### Authentication
+
+
+[1]: does this work
