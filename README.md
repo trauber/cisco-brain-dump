@@ -1,5 +1,9 @@
 # cisco-brain-dump
 
+* auto-gen TOC:
+{:toc}
+
+
 Notes to help prepare for desk top support training with Miles Tech.
 
 Start with general concepts and fill in as time permits and as necessity requires.
